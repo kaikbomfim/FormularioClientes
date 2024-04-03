@@ -75,5 +75,6 @@ if (!genero) {
     return false;
 }
 
+alert("Usuário cadastrado com sucesso!");
 return true;
 }
